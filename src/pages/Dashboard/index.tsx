@@ -5,7 +5,7 @@ import useStyles from "./styles";
 const Dashboard = () => {
   return (
     <>
-      <Typography variant="h3">Dashboard !</Typography>
+      <Typography variant="h3">Dashboard</Typography>
     </>
   );
 };
